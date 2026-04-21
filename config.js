@@ -16,13 +16,9 @@ global.isBaileysFail = false;
 global.defaultLenguaje = 'es';
 
 global.owner = [
-  ['5219996125657', '👑 Propietario 👑', true],
-  ['5492916450307'],
-  ['5493794297363'],
-  ['59169082575'],
-  ['595972184435'],
-  ['5215533827255']
-];
+  [' 19145315960', '👑 AressX1 Propietario 👑', true],
+  ];
+
 
 global.suittag = ['5219993404349'];
 global.prems = [];
@@ -30,7 +26,7 @@ global.prems = [];
 // Base Rest Api
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
-global.packname = 'Sticker';
+global.packname = 'AressX1Bot';
 global.author = 'BrunoSobrino';
 global.wm = 'The Mystic - Bot';
 global.titulowm = 'Mystic Bot';
@@ -55,16 +51,16 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\nThe Mystic - Bot`;
-global.gt = 'The Mystic - Bot';
-global.mysticbot = 'The Mystic - Bot';
+global.wm2 = `${dia} ${fecha}\nThe Phantom Bot`;
+global.gt = 'The Phantom Bot';
+global.mysticbot = 'The Phantom Bot';
 global.channel = 'https://whatsapp.com/channel/0029Vaein6eInlqIsCXpDs3y';
 global.md = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.mysticbot = 'https://github.com/BrunoSobrino/TheMystic-Bot-MD';
 global.waitt = '*_[ ⏳ ] Cargando..._*';
 global.waittt = '*_[ ⏳ ] Cargando..._*';
 global.waitttt = '*_[ ⏳ ] Cargando..._*';
-global.nomorown = '5219993404349';
+global.nomorown = '19145315960';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 global.cmenut = '❖––––––『';
 global.cmenub = '┊✦ ';
